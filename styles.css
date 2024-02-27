@@ -1,0 +1,104 @@
+/* .spinner {
+    width: 32px;
+    height: 32px;
+    border: 2px solid gray;
+    border-bottom: 2px solid rgb(15, 15, 168);
+    border-radius: 50%;
+    animation: rotate 1s linear infinite;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+} */
+
+/* :root {
+    --gradient: linear-gradient(90deg, red, blue)
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: gray;
+}
+
+.container {
+    background: white;
+    width: 70vw;
+    padding: 3rem;
+}
+
+.title {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 6rem;
+
+    background-image: var(--gradient);
+    background-size: 300%;
+    background-position: left;
+
+    color: transparent;
+    background-clip: text;
+
+    animation: bg 3s alternate infinite;
+}
+
+@keyframes bg {
+    0% {
+        background-position: left;
+    }
+
+    100% {
+        background-position: right;
+    }
+}
+
+.linearBtn {
+    cursor: pointer;
+    border: none;
+    font-size: 2rem;
+
+    background-image: var(--gradient);
+    background-size: 300%;
+    background-position: left;
+    animation: background-position 2s;
+}
+
+.linearBtn:hover {
+    background-position: right;
+} */
+
+body {
+    margin: 0;
+}
+
+/* .container {
+    height: 200px;
+    width: 700px;
+    padding: 32px;
+    background-image: url('https://www.surfertoday.com/images/stories/ocean-breaking-wave.jpg');
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+/* .square {
+    height: 250px;
+    width: 250px;
+background-color: aquamarine;
+}
+
+@media screen and (min-wid`th: 400px) and (max-width: 800px) {
+    .square {
+        background-color: red;
+    }
+} */
